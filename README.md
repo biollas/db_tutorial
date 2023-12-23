@@ -51,7 +51,7 @@ which will enable “offline mode” and, more importantly, will prevent it from
   - Name your model. Mine will be “busey”
   - Choose the Source Checkpoint, i.e. the model on which you want to train. I’ve had good results with RealisticVision, but I’ll just use the default v1-5-pruned thing that comes with it.
   - Click 512x Model, nothing else checked, click Create Model
-- Set parameters
+- Set training parameters
   - Click on Performance Wizard (WIP) if you’d like.
   - In my cases the settings it chooses are pretty good. I’m on a 3060 with 12GB of VRAM to play around with. But regardless, here’s what I use:
   - Training Steps: 600. (Keep in mind if you want to do 300 now and 300 later, then you’ll set this to 300).
@@ -81,7 +81,8 @@ which will enable “offline mode” and, more importantly, will prevent it from
   - Max Token Length: 75
   - ScalePrior Loss: unchecked
   - Prior Loss Weight: 0.75
-- Click on Concept 1
+- Set concept parameters
+  - Click on Concept 1
   - Dataset directory: ..\photos\busey\processed
   - Classification Dataset Directory: ..\photos\busey\classification
   - Instance token: ohwx. This is just the word the training subject will be associated with in the prompting. The idea is that ohwx is a nonsense term and therefore has little correlation with anything else already existing in the model, which makes it a clean choice for a new concept.
