@@ -93,7 +93,7 @@ which will enable “offline mode” and, more importantly, will prevent it from
   - Class Images Per Instance Image: 100
   - Classification CFG Scale: 7.5
   - Classification Steps: 40
-  - What this does is creates pictures of “man” as described in your txt files so the model can retain some idea of what “man” (and the other descriptors) means beyond the new subject you’re injecting into the model
+  - What this does is creates pictures of “man” as described in your txt files so the model can retain some idea of what “man” (and the other descriptors) means beyond the new subject you’re injecting into the model. They'll probably look weird as hell sometimes. That's fine.
   - This could take a while, depending on how many photos you have.
   - You can try skipping this step; in my experience the end result looks a bit more plasticy if you don’t use any class images.
 
