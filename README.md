@@ -1,3 +1,5 @@
+https://youtu.be/S1jFzeZA4aw
+
 # Download Python
 - https://www.python.org/downloads/release/python-3106/
 
