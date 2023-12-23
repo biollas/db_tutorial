@@ -1,3 +1,5 @@
+(Note: the Dreambooth images I uploaded were only trained with 300 epochs. They'd look better with more, but they look good enough for this purpose.
+
 https://youtu.be/S1jFzeZA4aw
 
 # Download Python
