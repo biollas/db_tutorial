@@ -1,6 +1,12 @@
-(Note: the Dreambooth images I uploaded were only trained with 300 epochs. They'd look better with more, but they look good enough for this purpose.
+# Videos
 
-https://youtu.be/S1jFzeZA4aw
+ - [Installation and Training](https://youtu.be/S1jFzeZA4aw)
+ - Usage Example 1: [Astronaut](https://youtu.be/ECNL7OB6FbQ)
+ - Usage Example 2: [Wonder Woman](https://youtu.be/nVObV7Pz10A)
+
+(Note: the Dreambooth images I made were trained for only 300 epochs. They'd look better with more epochs, and more training images, but they look good enough for this purpose.)
+
+
 
 # Download Python
 - https://www.python.org/downloads/release/python-3106/
