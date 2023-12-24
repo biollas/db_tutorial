@@ -4,7 +4,7 @@
  - Usage Example 1: [Astronaut](https://youtu.be/ECNL7OB6FbQ)
  - Usage Example 2: [Wonder Woman](https://youtu.be/nVObV7Pz10A)
 
-I don't go into anything more complex than the standard Automatic1111 features (i.e. no ControlNET). 
+I don't go into anything more complex than the standard Automatic1111 features (i.e. no ControlNET). I also use Realistic Vision as the source model much of the time; I use the default here just to keep things simple.
 
 (Note: the Dreambooth images I made were trained for only 300 epochs. They'd look better with more epochs, and more training images, but they look good enough for this purpose.)
 
